@@ -2,5 +2,5 @@
 
  
 ![Python](https://img.shields.io/badge/-Python-192133?style=flat-square&logo=python&logoColor=white)
-![Django](https://img.shields.io/badge/-Java-192133?style=flat-square&logo=figma&logoColor=white)
+![Java](https://img.shields.io/badge/-Java-192133?style=flat-square&logo=figma&logoColor=white)
 ![PHP](https://img.shields.io/badge/-PHP-192133?style=flat-square&logo=figma&logoColor=white)
