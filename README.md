@@ -8,7 +8,4 @@
 - Hi, i'm main1o
 - Engage in Cybersecurity
 
-# //<img align="left" src="https://github-readme-stats.vercel.app/api?username=main1o&theme=tokyonight&show_icons=true">
 <img src="./波吉塔.png">
-
-
