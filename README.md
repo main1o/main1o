@@ -9,4 +9,3 @@
 - Engage in Cybersecurity
 
 <img src="bobos.png">
-# <img src="bobo.webp" width="500" height="1000" >
