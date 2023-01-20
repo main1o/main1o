@@ -8,4 +8,5 @@
 - Hi, i'm main1o
 - Engage in Cybersecurity
 
-<img src="./bobo.webp">
+<img src="removebg.png" width="500" height="600" >
+<img src="bobo.webp" width="500" height="1000" >
